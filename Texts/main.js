@@ -1,1 +1,2 @@
-console.log(123)
+var Text = "Hello World!"
+console.log(Text)
